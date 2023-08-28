@@ -4,3 +4,7 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"EUmanuals":
+  url: https://ec.europa.eu/eurostat/web/main/publications/manuals-and-guidelines
+  color: "#00369f"

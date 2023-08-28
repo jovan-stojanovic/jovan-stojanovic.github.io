@@ -1,3 +1,11 @@
+"Eurostat":
+  - firstname: ["Eurostat", "eurostat"]
+    url: https://en.wikipedia.org/wiki/Eurostat
+
+"European Union":
+  - firstname: ["European Union", "EU"]
+    url: https://en.wikipedia.org/wiki/European_Union
+
 "Adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams

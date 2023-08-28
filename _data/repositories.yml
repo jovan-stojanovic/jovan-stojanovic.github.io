@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jovan-stojanovic
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - skrub-data/skrub
+  - dirty-cat/dirty_cat
+  - jovan-stojanovic/Animal-sound-recognition
+  - jovan-stojanovic/Passenger-Transport-Model-for-France
+  - projectJIM/NLP-Analyse-de-sentiments-dans-les-journaux-francais
