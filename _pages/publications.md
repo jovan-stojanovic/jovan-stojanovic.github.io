@@ -11,9 +11,8 @@ Work in progress.
 
 <!-- _pages/publications.md  -->
 
-<!-- 
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
-</div> -->
+</div>
