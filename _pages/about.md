@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://team.inria.fr/soda/'> Soda - Inria</a>, maintainer of <a href='https://skrub-data.org/'> skrub</a>.
+subtitle: PhD Candidate at <a href='https://team.inria.fr/soda/'> Soda - Inria</a>, maintainer of <a href='https://skrub-data.org/'> skrub</a>.
 
 profile:
   align: right
@@ -17,8 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a data scientist and open-source project maintainer. 
+I am a first-year PhD Candidate working on networks, econometrics and machine learning.
 
-I am interested in machine learning on tables, programming in Python and developing the [skrub](https://skrub-data.org/) open-source package. 
-
-I have a background in Economics and Econometrics.
+Previously data scientist and open-source project maintainer. 
