@@ -122,9 +122,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog page # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: A collection of my blog posts.
+blog_name: Talks and Conferences # blog_name will be displayed in your blog page
+blog_nav_title: Talks/Conferences # your blog must have a title for it to be displayed in the nav bar
+blog_description: A collection of my talks and conferences.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -264,8 +264,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['PhD', 'software', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['research'] # these categories will be displayed on the front page of your blog
+display_tags: ['talk', 'poster'] # these tags will be displayed on the front page of your blog
+display_categories: ['research', 'software'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
