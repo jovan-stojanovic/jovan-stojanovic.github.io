@@ -1,9 +1,9 @@
 ---
 layout: cv
-permalink: /assets/pdf/example_pdf.pdf
-title: cv
+permalink: /assets/pdf/main.pdf
+title: CV
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
+cv_pdf: main.pdf
 description: Work in progress.
 ---
