@@ -1,9 +1,10 @@
 ---
-layout: cv
-permalink: /assets/pdf/main.pdf
-title: CV
-nav: true
-nav_order: 4
-cv_pdf: main.pdf
+layout: page
+permalink: /cv/
+title: About me
 description: Work in progress.
+nav: true
+nav_order: 5
 ---
+
+To be added.
