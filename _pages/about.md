@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate (2023-) analyzing political communication and networks, at the instersection of econometrics and machine learning under the supervision of <a href='https://gael-varoquaux.info/'> Gaël Varoquaux (Inria)</a> and <a href='http://www.parisschoolofeconomics.com/comola-margherita/'> Margherita Comola (Paris School of Economics)</a>.
+I am a PhD Candidate (2023-) currently working on political discourse on social media and the diffusion of news articles in political networks. I am curious about both econometrics and machine learning methods. My thesis is under the supervision of <a href='https://gael-varoquaux.info/'> Gaël Varoquaux (Inria)</a> and <a href='http://www.parisschoolofeconomics.com/comola-margherita/'> Margherita Comola (Paris School of Economics)</a>.
 
 Currently working within two research labs:
 - <a href='https://team.inria.fr/soda/'> Soda project-team at Inria Saclay</a>
