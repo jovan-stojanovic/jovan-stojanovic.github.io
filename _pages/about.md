@@ -20,9 +20,3 @@ I am a PhD Candidate (2023-) currently working on political discourse on social 
 Currently working within two research labs:
 - <a href='https://team.inria.fr/soda/'> Soda project-team at Inria Saclay</a>
 - <a href='http://www.ritm.universite-paris-saclay.fr/'> RITM at Paris Saclay University</a>
-
-Previous positions:
-
-- Open-source software engineer at <a href='https://www.inria.fr/en'> Inria</a> (2022-2023)
-- Data scientist/statistician at the <a href='https://www.oecd.org/'> OECD</a> (2021-2022) 
-- Data scientist/statistician at <a href='https://ec.europa.eu/eurostat'> Eurostat</a> (2019)
