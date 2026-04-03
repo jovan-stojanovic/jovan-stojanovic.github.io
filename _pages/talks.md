@@ -6,6 +6,8 @@ nav: true
 nav_order: 4
 ---
 
+- April 2026: [Research Seminar In Applied Economics And Management - Université Libre de Bruxelles](https://www.cebrig-ulb.be/uploads/1/1/9/7/119727964/affiche_stojanovic_rsaem_bbs_rru.pdf) - presentation
+
 - December 2025: [8th Economics and Politics Workshop](https://workshopecopol.com/the-2025-workshop/) - presentation
 - November 2025: [RITM, Paris-Saclay University Seminar](https://www.ritm.universite-paris-saclay.fr/economics-seminar/) - presentation
 - June 2025: [41èmes Journées de Microéconomie Appliquée](https://jma2025.sciencesconf.org/program?lang=en) - presentation
