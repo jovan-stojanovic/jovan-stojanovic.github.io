@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks/Presentations
+title: Talks/Tutorials/Posters
 nav: true
 nav_order: 4
 ---
@@ -17,8 +17,12 @@ nav_order: 4
 - December 2024 - [Soda, Inria Seminar](https://team.inria.fr/soda/)
 - May 2024 - [Economics PhD meeting 2024, Paris Saclay University](https://econphd-paris-saclay.fr/program24.html)
 
-- August 2023 - [Euroscipy 2023](https://euroscipy.org/2023/poster_session.html) - "skrub, preparing tables for machine learning"
-- May 2023 - [JupyterCon 2023](https://www.youtube.com/watch?v=lvDN0wgTpeI) - "Machine learning with dirty tables encoding, joining and deduplicating" [[Video]](https://www.youtube.com/watch?v=lvDN0wgTpeI)
-- February 2023 - [PyConFR 2023](https://www.pycon.fr/2023/en/index.html) - "Apprentissage statistique adapté aux données sales avec dirty-cat"
+- August 2023 - [Euroscipy 2023](https://archive.euroscipy.org/2023/poster_session.html) - "skrub, preparing tables for machine learning" (poster session)
+- May 2023 - [JupyterCon 2023](https://www.jupytercon.com) - "Machine learning with dirty tables encoding, joining and deduplicating" [[Video]](https://www.youtube.com/watch?v=lvDN0wgTpeI)
+- April 2023 - [Mind - Soda (Inria) joint seminar](https://team.inria.fr/mind/) - "Machine learning with dirty tabular data in Python"
+- February 2023 - [PyConFR 2023](https://www.pycon.fr/2023/en/index.html) - "Apprentissage statistique adapté aux données sales avec dirty-cat" [[Video]](https://pyvideo.org/jupytercon-2023/machine-learning-with-dirty-tables-encoding-joining-and-deduplicating.html)
+- January 2023 - [DIG (Télécom Paris) - Soda (Inria) joint seminar](https://www.telecom-paris.fr/en/research/labs/information-processing-ltci/teams/data-intelligence-graphs) - "The dirty_cat Python package"
+
+- May 2022 - [HeKA - Soda (Inria) joint seminar](https://heka.gitlabpages.inria.fr/) - "The dirty_cat Python package"
 
 - July 2019 - [UNCTAD 2019](https://unctad.org/meeting/task-force-meeting-statistical-methodologies-measuring-illicit-financial-flows) - "Non-Observed Economy in National Accounts"
