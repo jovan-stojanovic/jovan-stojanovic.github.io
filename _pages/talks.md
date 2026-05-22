@@ -14,8 +14,8 @@ nav_order: 4
 - May 2025 - [2nd Welfare & Policy Conference](https://wapsociety.org/wp-content/uploads/2025/04/WAP2025-programme.pdf)
 - May 2025 - [Economics PhD meeting 2025, Paris Saclay University](https://econphd-paris-saclay.fr/index.html)
 
-- December 2024 - [Soda, Inria Seminar](https://team.inria.fr/soda/)
 - May 2024 - [Economics PhD meeting 2024, Paris Saclay University](https://econphd-paris-saclay.fr/program24.html)
+- March 2024 - [Soda (Inria) Seminar](https://team.inria.fr/soda/)
 
 - August 2023 - [Euroscipy 2023](https://archive.euroscipy.org/2023/poster_session.html) - "skrub, preparing tables for machine learning" (poster session)
 - May 2023 - [JupyterCon 2023](https://www.jupytercon.com) - "Machine learning with dirty tables encoding, joining and deduplicating" [[Video]](https://www.youtube.com/watch?v=lvDN0wgTpeI)
